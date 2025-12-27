@@ -5,7 +5,6 @@ An autonomous, production-grade AI agent designed to manage Gmail, Google Calend
 ## 🎥 Demo
 
 **https://www.loom.com/share/8162358864a64bd6ba17081ecb3037ec**
-![Demo](Demo_&_Screenshots/Advanced_AI_WhatsApp_Assistant_Demo.MOV)
 
 ### System Architecture
 ![System Architecture Diagram](system_architecture.PNG)
@@ -33,6 +32,7 @@ This system acts as a personal Chief of Staff. By leveraging Gemini 2.5 Flash an
 * **Memory**: Window Buffer Memory (Session-aware)
 * **Database/CRM**: Google Sheets (Contact Lookup)
 * **Communications**: Meta WhatsApp Business API
+* **Languages: JavaScript (Node.js)
 * **Productivity**: Google Workspace (Gmail & Calendar API)
 
 ---
